@@ -81,36 +81,6 @@ Huang, Q., Lin, Y., Zhong, Q., Ma, F., & Zhang, Y. The Impact of Microplastic Pa
  
 </details>
 
-### How to Generate Figure 4 from 2020 Paper
-
-![2 1](https://user-images.githubusercontent.com/96194504/146249654-aaf06bfc-6547-464d-b0cf-695f5ccf1fcd.jpg)
-![2 2](https://user-images.githubusercontent.com/96194504/146249657-782296f4-60f9-4c8d-a16d-93f19f12e29b.jpg)
-* Figure 2a.1 and 2a.2 - Run sim('FinalModel') with r11=0, r21=0
-
-![2b 1](https://user-images.githubusercontent.com/96194504/146249691-ebed31a2-9c81-425c-84e4-2311efe20f90.jpg)
-![2b 2](https://user-images.githubusercontent.com/96194504/146249692-70c6efb8-b17a-44bf-b9da-cb4ecc00cdac.jpg)
-* Figure 2b.1 and 2b.2 - Run sim('FinalModel') with r11=0.1, r21=0.1
- 
-* Figure 2b.3 and 2b.4 - Run sim('FinalModel') with r11=1.0, r21=1.0
- 
-* Figure 2b.5 and 2b.6 - Run sim('FinalModel') with r11=10.0, r21=10.0
- 
-* Figure 2c.1 and 2c.2 - Run sim('FinalModel') with r11=0.01, r21=0.1
- 
-* Figure 2c.3 and 2c.4 - Run sim('FinalModel') with r11=1.0, r21=10.0
- 
-* Figure 2d.1 and 2d.2 - Run sim('FinalModel') with r11=1.0, r21=0.1
- 
-* Figure 2d.3 and 2d.4 - Run sim('FinalModel') with r11=5.0, r21=0.5
- 
-* Figure 2d.5 and 2d.6 - Run sim('FinalModel') with r11=10.0, r21=1.0
- 
-* Figure 2c.3 and 2c.4 - Run sim('FinalModel') with r11=1.0, r21=10.0
- 
-* Figure 2d.1 and 2d.2 - Run sim('FinalModel') with r11=1.0, r21=0.1
- 
-</details>
-
 <details>
  <summary>Summary of src Codes</summary>
  
