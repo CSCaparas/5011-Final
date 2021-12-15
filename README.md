@@ -1,6 +1,7 @@
 # 5011-Final MATLAB Code:
 
-Article we based our project on: https://www.nature.com/articles/s41598-020-61414-3.pdf
+Article we based our project on:
+
 Huang, Q., Lin, Y., Zhong, Q., Ma, F., & Zhang, Y. The Impact of Microplastic Particles on Population Dynamics of Predator and Prey: Implication of the Lotka-volterra Model. Sci Rep 10,4500 (2020). https://doi.org/10.1038/s41598-020-61414-3
 
  <details>
